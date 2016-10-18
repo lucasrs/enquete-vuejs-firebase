@@ -1,0 +1,24 @@
+{
+  "poll" : {
+    "name" : "Qual é sua linguagem de progração preferida?",
+    "options" : [ {
+      "name" : ".NET",
+      "votes" : 0
+    }, {
+      "name" : "PHP",
+      "votes" : 0
+    }, {
+      "name" : "Java",
+      "votes" : 0
+    }, {
+      "name" : "C++",
+      "votes" : 0
+    }, {
+      "name" : "Todas as alternativas",
+      "votes" : 0
+    }, {
+      "name" : "Nenhuma das alternativas",
+      "votes" : 0
+    } ]
+  }
+}
