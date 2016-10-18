@@ -25,10 +25,10 @@ Configure the rules of realtime database for without authentication.
 ### Adjust Firebase Credentials
 save your credentials to <b>firebase-config.js</b>
 
-# Serve with hot reload at localhost:8080
+### Serve with hot reload at localhost:8080
 <pre><code>npm run dev</code></pre>
 
-# Build for production with minification
+### Build for production with minification
 <pre><code>npm run build</code></pre>
 
 
