@@ -1,4 +1,8 @@
 node_modules/
 public/
 npm-debug.log
+.metadata
+.settings
+.buildpath
+.project
 firebase.json
