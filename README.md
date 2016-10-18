@@ -20,7 +20,7 @@ Used features and technologies: </p>
 import firebase-schema.json into the databse.
 Configure the rules of realtime database for without authentication.
 
-![Screen Realtime Database](https://github.com/lucasrs/VueJs-Basic/blob/master/images/screen1.png)
+![Screen Realtime Database](https://github.com/lucasrs/enquete-vuejs-firebase/blob/master/images/1.png)
 
 ### Adjust Firebase Credentials
 save your credentials to <b>firebase-config.js</b>
@@ -34,6 +34,6 @@ save your credentials to <b>firebase-config.js</b>
 
 ### Access address: <pre><code>http://localhost:8080</code></pre>
 
-![Screen Enquete](https://github.com/lucasrs/VueJs-Basic/blob/master/images/screen2.png)
+![Screen Enquete](https://github.com/lucasrs/enquete-vuejs-firebase/blob/master/images/2.png)
 
-![Screen Enquete Results](https://github.com/lucasrs/VueJs-Basic/blob/master/images/screen3.png)
+![Screen Enquete Results](https://github.com/lucasrs/enquete-vuejs-firebase/blob/master/images/3.png)
